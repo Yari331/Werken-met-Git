@@ -1,0 +1,1 @@
+Ik heb geleerd hoe branches en merge-conflicten werken. Ik wil nog meer weten over geavanceerde rebasen.
