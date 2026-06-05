@@ -1,0 +1,7 @@
+Evaluatie Git Workshops - Yari
+
+Wat ik heb geleerd tijdens de afgelopen 3 workshops:
+Voor de workshops was Git nog helemaal nieuw voor mij. Ik heb in de afgelopen weken geleerd hoe Git werkt en hoe belangrijk het is voor versiebeheer. Het meest leerzame vond ik het werken met de terminal (Git Bash). In het begin was dat even wennen, maar ik begrijp nu hoe ik met commando's zoals git add, git commit en git push mijn code kan beheren en uploaden naar GitHub. Ook het werken met branches is nu een stuk duidelijker geworden.
+
+Wat ik nog zou willen weten/leren over Git:
+Ik zou in de toekomst graag willen leren hoe je een fout herstelt in Git als de code crasht. Als er nu iets misgaat, vind ik het nog lastig om te weten hoe ik veilig terug kan gaan naar een oudere back-up of commit zonder dat ik werk kwijtraak. Dit lijkt me heel handig voor grotere projecten.
