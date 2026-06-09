@@ -1,3 +1,5 @@
+Evaluatie Git Workshops - Yari
+
 Wat ik heb geleerd tijdens de afgelopen 3 workshops:
 Ik heb tijdens de workshops goed geleerd hoe branches werken en hoe je onafhankelijk van elkaar aan hetzelfde project kunt werken. Vandaag heb ik in de praktijk ervaren hoe een merge-conflict ontstaat en hoe je deze handmatig in de code moet oplossen als Git er zelf niet uitkomt.
 
