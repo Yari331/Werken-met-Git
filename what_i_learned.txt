@@ -1,1 +1,7 @@
-Ik weet nu hoe je met Git samenwerkt en ruzies oplost. Ik wil nog leren hoe je commits ongedaan maakt.
+Evaluatie Git Workshops Darian Vukoje
+
+Wat ik heb geleerd tijdens de afgelopen 3 workshops:
+Voordat we aan deze workshops begonnen, was Git voor mij nog helemaal nieuw. In de afgelopen weken heb ik geleerd hoe handig Git is om samen aan code te werken. Het meest leerzame vond ik het werken met branches. Het is heel fascinerend om te zien hoe je in een eigen 'zijtak' kunt werken aan je eigen code, zonder dat je meteen de hoofdcode van het project in de war schopt.
+
+Wat ik nog zou willen weten/leren over Git:
+In de toekomst zou ik graag willen leren hoe je heel grote projecten netjes ordent met Git. Als een project groeit en er honderden bestanden en tientallen branches komen, lijkt het me een grote uitdagig om het overzicht te bewaren. Ik ben benieuwd welke mappenstructuur en Git-regels grote bedrijven daarvoor gebruiken.
